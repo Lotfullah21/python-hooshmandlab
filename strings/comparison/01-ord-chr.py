@@ -1,0 +1,8 @@
+print(chr(65))
+# print(ord("AE"))
+print(ord("H"))
+print(ord("i"))
+print(ord("e"))
+print(ord("E"))
+print(ord("l"))
+print(ord("o"))
