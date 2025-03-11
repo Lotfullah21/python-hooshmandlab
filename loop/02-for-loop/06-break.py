@@ -1,8 +1,5 @@
-t = "12"
-while True:
-    x = input("Enter your guess: ")
-    if x==t:
-        print("You are a winner")
-    else:
-        print("you are not")
-    
+x  = 0
+while x<12:
+    print(x)
+    x = x+1
+    print(x)
